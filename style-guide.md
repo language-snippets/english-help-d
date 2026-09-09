@@ -21,3 +21,7 @@ The same original monochrome gentleman appears in the conversation artwork and M
 The original social profile image remains near contact details. Caption: “Look for my profile picture on LinkedIn and Instagram.” Hungarian: “Ezt a profilképet keresd a LinkedInen és az Instagramon.” Copy email and copy phone controls remain, with selectable-text fallback.
 
 The cinematic scene remains below the services in monochrome. Existing D URL and QR destination remain unchanged. The exact updated English “Drop me a line…” invitation is synchronised with B, with a corresponding Hungarian version. No new claims, rates or guarantees.
+
+
+## Retro cinema refinement
+Header: uniform Oswald sizing for “Mark G. · English services · Budapest”, with speaking, writing and accent-training subtitle. A lavender/ivory checker detail references the original film image. Pastel mint, blush, pale olive and lavender soften the speech panel and service tiles. The lime primary action remains the brightest accent. The lower cafe artwork returns to softly muted colour, with a small dark checker edge. Patterns stay away from body text and QR codes.
