@@ -1,13 +1,23 @@
-# Version D — Start a conversation
+# Version D — Cinema Pop
 
-Updated in place. C is preserved. Existing D QR codes still point to D.
+Hungarian-first, bilingual conversation campaign. The supplied profile image's bright colours inspire purposeful accents rather than a stacked stripe.
 
-Ink #152238; warm white #fffdf8; electric blue #2455e6; coral #ff886e. Blue is the primary action colour. Coral is a small accent. Poppins body and Oswald headings remain.
+## Palette roles
+- Ink #152238: headings, text, outlines and contact panel.
+- Warm white #fffefa: reading background.
+- Cyan #00dfe5: teacher speech bubble, headline underline and introduction accent.
+- Lime #a5ee24: primary contact actions.
+- Magenta #f000ca: thin writing-service and image-caption accents.
+- Blush #f38aaf: small speech-bubble shadow.
+- Pale cyan, pink, green and lilac: the four service tiles; dark text remains legible.
 
-The first screen addresses learners who understand some English but hesitate to speak. It repeats the proposed conversation campaign hook. All-level availability remains visible; editing and Hungarian-to-English projects remain in the service cards.
+## Typography and hierarchy
+Poppins body; Oswald headings. Lead with the difficulty of speaking English. Four service links immediately follow the hero. Use white content cards with coloured top edges, short paragraphs and clear spacing. Keep the main contact action visible on mobile.
 
-Speech bubbles and the original smiling gentleman character make a consistent visual identity. The cinematic café illustration moves below the services and appears in monochrome. The supplied social profile image stays intact for recognition.
+## Brand character
+The same original monochrome gentleman appears in the conversation artwork and Mark's introduction: suit, smile, no moustache or hat. The vector remains sharp at all sizes and can be replaced by a photo-inspired character later.
 
-Email and SMS open local apps. Copy email and copy phone buttons provide alternatives. If clipboard access is unavailable, the page reveals a selectable contact field. No messages are automatically sent. No analytics or cookies are added.
+## Recognition and contact
+The original social profile image remains near contact details. Caption: “Look for my profile picture on LinkedIn and Instagram.” Hungarian: “Ezt a profilképet keresd a LinkedInen és az Instagramon.” Copy email and copy phone controls remain, with selectable-text fallback.
 
-Preserved: exact requested English contact invitation, credentials, translation direction, social links, existing QR destination, and HU/English switch.
+The cinematic scene remains below the services in monochrome. Existing D URL and QR destination remain unchanged. The exact updated English “Drop me a line…” invitation is synchronised with B, with a corresponding Hungarian version. No new claims, rates or guarantees.

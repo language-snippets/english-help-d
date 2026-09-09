@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="390" viewBox="0 0 360 390" role="img" aria-labelledby="title desc">
+<title id="title">A friendly illustrated gentleman</title><desc id="desc">An original illustrated character with neatly parted silver hair, a warm smile and a black suit. This is not a portrait of Mark.</desc>
+<circle cx="180" cy="180" r="165" fill="#f0f0ee"/><path d="M49 308c30-24 78-42 131-42s108 18 134 42v61H49z" fill="#bcbcbc" opacity=".35"/>
+<g stroke="#171717" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+<path d="M76 358v-52c0-41 44-72 104-72s104 31 104 72v52" fill="#292929"/>
+<path d="M145 235l35 18 35-18 9 115h-88z" fill="#ffffff"/>
+<path d="M162 260l18-9 18 9-11 20 11 58-18 17-18-17 11-58z" fill="#bcbcbc"/>
+<path d="M144 235l-30 18 15 36-14 16 48 53-21-90m74-32 30 18-15 36 14 16-48 53 21-90" fill="#484848"/>
+<path d="M158 215v25l22 15 22-15v-25" fill="#ededeb"/>
+<ellipse cx="110" cy="158" rx="15" ry="22" fill="#f5f5f2"/><ellipse cx="250" cy="158" rx="15" ry="22" fill="#f5f5f2"/>
+<path d="M111 116c0-51 138-51 138 0v54c0 45-30 70-69 70s-69-25-69-70z" fill="#fffefb"/>
+<path d="M110 149c-20-30-12-76 17-93 22-15 57-15 74-8 44-7 65 28 53 91l-11 17-3-47c-21 2-43-11-54-23-14 27-45 32-68 31l1 36z" fill="#c8c8c6"/>
+<path d="M123 96c22-1 43-8 58-24M132 79c13-3 25-7 34-13m35 5c13 6 24 15 30 25" fill="none" stroke="#888888" stroke-width="3"/>
+<path d="M133 145q13-9 25-2m44 0q13-7 25 2" fill="none" stroke="#707070"/>
+<path d="M140 160q5-5 10 0m60 0q5-5 10 0" fill="none"/>
+<path d="M179 162l-5 18 11 2" fill="none" stroke="#a5a5a2" stroke-width="3"/>
+<ellipse cx="136" cy="183" rx="12" ry="7" fill="#e7e7e4" stroke="none"/><ellipse cx="224" cy="183" rx="12" ry="7" fill="#e7e7e4" stroke="none"/>
+<path d="M155 198q25 27 50 0z" fill="#ffffff" stroke-width="3"/>
+<path d="M231 306h30l-5-14-11 8-10-5z" fill="#ffffff" stroke-width="2"/>
+<path d="M91 335q35-8 58 8" fill="none"/><path d="M227 345h34" fill="none"/>
+</g><g fill="#bcbcbc"><path d="M57 104l4 10 10 4-10 4-4 10-4-10-10-4 10-4z"/><circle cx="294" cy="206" r="5"/><path d="M290 65l3 7 7 3-7 3-3 7-3-7-7-3 7-3z"/></g>
+</svg>
